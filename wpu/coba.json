@@ -1,0 +1,30 @@
+[
+	{
+		"nama" 	: "Jason Sathan",
+		"umur"	: 32,
+		"nrp"	: "41684646",
+		"lulus"	: true,
+		"hobby"	: [
+			"assasin",
+			"driver"
+		],
+		"pembimbing"	: {
+			"pembimbing1" 	: "Dwayn Jhonson",
+			"pembimbing2"	: "Jhon Wick"
+		}
+	},
+	{
+		"nama" 	: "Tom Cruse",
+		"umur"	: 30,
+		"nrp"	: "4684652",
+		"lulus"	: true,
+		"hobby"	: [
+			"bouty hunter",
+			"spy"
+		],
+		"pembimbing"	: {
+			"pembimbing1" 	: "Jhony Depp",
+			"pembimbing2"	: "Mr Nobody"
+		}
+	}
+]
